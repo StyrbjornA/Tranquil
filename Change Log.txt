@@ -1,0 +1,6 @@
+2019-05-11
+- Added a game design document (referred to as GDD henceforth)
+- Added topics to GDD
+	- Gameplay concept
+	- Graphical style
+	- Audio

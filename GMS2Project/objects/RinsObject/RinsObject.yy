@@ -2,7 +2,7 @@
     "id": "6c38c889-a527-4309-926f-558519e39dca",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object0",
+    "name": "RinsObject",
     "eventList": [
         
     ],

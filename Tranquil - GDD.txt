@@ -3,10 +3,11 @@ Tranquil - Game Design Document
 Gameplay concept
 Tranquil is a metroidvania exploration platformer with a semi open world approach, where collectible power ups expand the number of areas that can be reached.
 
-The story will be told in a non intrusive way, through optional dialogue and interactive objects (signs etc.).
-
 Graphical style
-Tranquil works with a low res (240 x 160 pixels), two color design. The colors can be changed depending on the theme of an area (forest, lava, ice etc.). 
+Tranquil works with a low res (240 x 160 pixels), two color design. The colors change depending on the theme of an area (forest, lava, ice etc.). 
 
 Audio
-Tranquil relies on atmospheric sounds and a minimalistic soundtrack, with discernible music only during key encounters and events. 
+Tranquil relies on atmospheric sounds and a minimalistic soundtrack, with discernible music only during key encounters and events.
+
+Story
+The story will be told in a non intrusive way, through optional dialogue, interactive objects (signs etc.) and collectibles. See the separate document, Tranquil - Story, for more details.

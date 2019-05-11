@@ -4,3 +4,4 @@
 	- Gameplay concept
 	- Graphical style
 	- Audio
+	- Story

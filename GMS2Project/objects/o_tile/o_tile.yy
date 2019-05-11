@@ -1,8 +1,8 @@
 {
-    "id": "6c38c889-a527-4309-926f-558519e39dca",
+    "id": "2d97d6ba-61e7-4414-8466-44c7bcacb030",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "RinsObject",
+    "name": "o_tile",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": true
+    "spriteId": "8e30202b-358b-43df-961d-a5481e615533",
+    "visible": false
 }

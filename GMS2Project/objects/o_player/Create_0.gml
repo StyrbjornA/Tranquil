@@ -1,0 +1,2 @@
+SetupActive();
+moveSpeed = 3;

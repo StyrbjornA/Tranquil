@@ -1,9 +1,34 @@
 2019-05-11
+Documents changes
 - Added a game design document (referred to as GDD henceforth)
 - Added topics to GDD
-	- Gameplay concept
-	- Graphical style
-	- Audio
-	- Story
+	Gameplay concept
+	Graphical style
+	Audio
+	Story
+	Plot
 - Added document, Tranquil - Story
 - Added document, Tranquil - Game World
+Dev changes
+- Added objects
+	c_controls
+	c_graphics
+	c_game
+	o_player
+	o_tile
+	c_camera
+- Added sprites
+	s_playerStand
+	s_tls_autoTile
+	s_tile
+- Added tileset
+	tls_autoTile
+- Added shader
+	shd_whiteSprite
+- Added scripts
+	CheckControls
+	SetupActive
+	SetupEnums (run from c_game)
+	CheckCollison
+
+Finished script CheckCollision and tested that collision works properly for active moving objects.

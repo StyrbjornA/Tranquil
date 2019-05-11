@@ -6,3 +6,4 @@
 	- Audio
 	- Story
 - Added document, Tranquil - Story
+- Added document, Tranquil - Game World

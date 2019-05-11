@@ -1,6 +1,8 @@
 TRANQUIL - STORY
+
 	Main Story
-		A middle school girl named Sophia commits suicice, ends up in the Limbo world of Tranquil and explores her memory to learn about the cause of her demise. Eventually she finds out that she is but a pawn in a much bigger scheme that will bring about a battle between Heaven and Hell and the destruction of Earth. 
+		A middle school girl named Sophia commits suicice, ends up in the Limbo world of Tranquil and explores her memory to learn about the cause of her demise. Eventually she finds out that she is but a pawn in a much bigger scheme that will bring about a battle between Heaven and Hell and the destruction of Earth.
+
 	Game World
 		The world in Tranquil is divided into four main domains:
 			Earth: the physical domain - the world that we know and experience
@@ -10,11 +12,25 @@ TRANQUIL - STORY
 
 		In the beginning of time there was the Domain of Creation, brought about by The Creator. It's pinnacle was the creation of mankind, an advanced species that had much in common with it's maker, having near unlimited power the mold the world to its liking. 
 
-		This planted a seed of conflict within The Creator. The desire to remain in power, to have undisputed control over creation, was contrasted by the drive to let mankind flourish with unbound creativity. Thus The Creator and the world was split into manifestations of the incompatible urges that could no longer be contained within one, single mind. God became the Lord of the Domain of Heaven, and the Devil became the Lord of the Domain of Hell. Mankind was banished to the physically restrained domain of Earth, losing its immortality, its powers and being forever governed by the conflicting influences of order and chaos. A fourth domain, Tranquil, was formed, binding the three domains together.
+		This planted a seed of conflict within The Creator. The desire to remain in power, to have undisputed control over creation, was contrasted by the drive to let mankind flourish with unbound creativity. Thus The Creator and the world was split into manifestations of the incompatible urges that could no longer be contained within one, single mind. The Rupture lead to God becoming the Lord of the Domain of Heaven, and the Devil becoming the Lord of the Domain of Hell. Mankind was banished to the physically restrained domain of Earth, losing its immortality, its powers and being forever governed by the conflicting influences of order and chaos. A fourth domain, Tranquil, was formed, binding the three domains together.
+
 	Plot
-		The Devil learns that while both himself and God are unable to control humans on Earth directly, human dreams take place in Tranquil, a domain that is linked to both Heaven and Hell. Thus, the Devil manipulates a human child in her dreams into following her dreams, which will eventually lead her to commit suicide. Children, unlike adults, are not yet attunted to either order or chaos, and will therefore not end up in Heaven or Hell when they die. Instead their souls are trapped in the Garden of Tranquil without ever being subject to judgement. 
+		The Devil learns that while both himself and God are unable to control humans on Earth directly, human dreams take place in Tranquil, a domain that is linked to both Heaven and Hell. The Devil manipulates the human girl Sophia in her dreams into following her hearts desire, which eventually leads to her committing suicide. Children, unlike adults, are not yet attunted to either order or chaos, and will therefore not end up in Heaven or Hell when they die. Instead their souls are trapped in the Garden of Tranquil without ever being subject to judgement. The soul of Sophia is funneled into Tranquil upon her passing in accordance to the Devils' plan.
 
-		The girl Sophia however is already influenced by the Devil, and can traverse Tranquil in its entirety. Convinced that human suffering is caused by the laws of order put forth by God, her goal is to breach the seals between Tranquil, Heaven, Hell and Earth. The destruction of the three seals, she thought, would elevate humanity to its former state of power and freedom, the abscence of which was the cause of her death in the first place. 
+		Being seeded with doubt by the Devil, Sophia traverses Tranquil in search for answers. Learning that human suffering is caused by the laws of order put forth by God, her goal becomes to breach the seals between Tranquil, Heaven, Hell and Earth. The destruction of the three seals, she is convinced, will elevate humanity to its former state of power and freedom, the abscence of which was the cause of her death in the first place.
 
+		The Devil hopes that Sophia will hold the morality of God responsible for her suffering and that she will destroy him. Sophia however, decides that human kind is better off without any divine influence at all, and thus sets out to defeat both aspects of The Creator. 
+
+		Upon the destruction of God and the Devil, the Beast of Tranquil is wakened, threatening to devour Earth and all its inhabitants. Sophia faces the Beast in a final battle for human existence, ultimately freeing Earth from the divine influence from which it had been born.
+
+	The four seals
+		The Seal of Order
+			Connecting the Heaven to Tranquil, the Seal of Order keeps God from fully stripping human kind from freedom of thought by enforcing absolute morality.  
+		The Seal of Chaos
+			Connecting the Heaven to Tranquil, the Seal of Chaos keeps the Devil from freely altering the physical reality of Earth by the force of creativity. 
+		The Seal of Death
+			Connecting the Earth to Tranquil, the Seal of Death strips humankind from its former mortality, ensuring that the souls of the demised are trapped in Heaven, Hell or Tranquil.
+		The Seal of Tranquil
+			Tethered between the realms of Heaven, Hell and Earth is the Beast of Tranquil, the manifestation of discord caused by the Rupture. Chained between the domains, the Beast rests eternally. 
 
 

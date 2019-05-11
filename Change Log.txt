@@ -5,3 +5,4 @@
 	- Graphical style
 	- Audio
 	- Story
+- Added document, Tranquil - Story

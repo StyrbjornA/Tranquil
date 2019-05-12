@@ -24,5 +24,6 @@ enum PLAYERSTATE{
 	standing,
 	running,
 	jumping,
-	falling
+	falling,
+	areaSwitch
 }

@@ -47,7 +47,13 @@ Resource changes
 	s_playerRun
 	s_playerJump
 	s_playerFall
-
+	s_platform
+	s_tls_startArea
+	s_roomGuide
+- Added objects
+	o_platform
+- Added tileset
+	tls_startArea
 - Added scripts
 	PlayerStanding
 	PlayerJumping
@@ -60,6 +66,7 @@ Resource changes
 	UpdateHorizSpeed
 	MovePlayerX
 	MovePlayerY
+	CheckPlatform
 
 Development Progress
 
@@ -67,3 +74,5 @@ Finished the basic player controls, using a finite state machine.
 Finished the s_playerRun animation. 
 Fixed a pixel offset problem by moving the player sprite one pixel right when facing left.
 Finished the s_playerJump and s_playerFall animations
+Added jump through platforms (o_platform)
+Added camera code

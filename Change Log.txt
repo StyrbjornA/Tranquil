@@ -9,7 +9,7 @@ Documents changes
 	Plot
 - Added document, Tranquil - Story
 - Added document, Tranquil - Game World
-Dev changes
+Resource changes
 - Added objects
 	c_controls
 	c_graphics
@@ -31,4 +31,39 @@ Dev changes
 	SetupEnums (run from c_game)
 	CheckCollison
 
+Development Progress
+
 Finished script CheckCollision and tested that collision works properly for active moving objects.
+Finished the shd_whiteSprite shader, which is used to draw the outline of the player.
+Finished the s_playerStand animation
+
+2019-05-12
+Folder changes
+- Added folder
+	Version history (backup each day)
+Resource changes
+- Added sprites
+	s_playerCollisionBox
+	s_playerRun
+	s_playerJump
+	s_playerFall
+
+- Added scripts
+	PlayerStanding
+	PlayerJumping
+	PlayerFalling
+	PlayerRunning
+	PlayerRun
+	PlayerStand
+	PlayerFall
+	PlayerJump
+	UpdateHorizSpeed
+	MovePlayerX
+	MovePlayerY
+
+Development Progress
+
+Finished the basic player controls, using a finite state machine.
+Finished the s_playerRun animation. 
+Fixed a pixel offset problem by moving the player sprite one pixel right when facing left.
+Finished the s_playerJump and s_playerFall animations

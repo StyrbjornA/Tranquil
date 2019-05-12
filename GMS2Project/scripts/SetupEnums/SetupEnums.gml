@@ -20,3 +20,9 @@ enum CTRL{
 	startPressed,
 	selectPressed
 }
+enum PLAYERSTATE{
+	standing,
+	running,
+	jumping,
+	falling
+}

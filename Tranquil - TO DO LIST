@@ -6,3 +6,6 @@ Create player with working controlsX
 Create camera that follows player (snap to room)X
 Create save points
 Create death system
+Create collectible poems that saves at player save
+Create dialogue system
+Create actives that are deactivated and activated depending on camera position

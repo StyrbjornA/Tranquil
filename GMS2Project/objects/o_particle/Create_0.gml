@@ -1,0 +1,10 @@
+waveSeed = irandom(pi*2);
+life = 50;
+xSpeed = 0;
+ySpeed = 0;
+xAcc = 0;
+yAcc = 0;
+particleType = PARTICLE.whitepixel;
+flashing = false;
+wavelengthX = 0;
+wavelengthY = 0;

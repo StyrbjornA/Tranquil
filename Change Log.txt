@@ -52,6 +52,8 @@ Resource changes
 	s_roomGuide
 - Added objects
 	o_platform
+	o_teleporter
+	o_particle
 - Added tileset
 	tls_startArea
 - Added scripts

@@ -27,3 +27,6 @@ enum PLAYERSTATE{
 	falling,
 	areaSwitch
 }
+enum PARTICLE{
+	whitepixel
+}

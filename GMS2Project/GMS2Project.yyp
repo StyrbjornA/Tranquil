@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "013aea61-4a5e-48e6-80c5-6dbf81bf32e7",
+            "Value": {
+                "id": "d8407099-2b89-461d-868b-3530768c26bf",
+                "resourcePath": "views\\013aea61-4a5e-48e6-80c5-6dbf81bf32e7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "01ad6d5f-072b-4358-9fc9-2111ee2dd6f3",
             "Value": {
                 "id": "9de37766-f24d-493e-8d9d-195f622c44e9",
@@ -60,6 +68,14 @@
                 "id": "e6182af5-c1bc-4318-8a6f-b179597f9088",
                 "resourcePath": "views\\077e5e02-a574-4e6a-9acd-134257abd2c4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0d9d1d59-445a-4111-98b7-c49f2f4a0ece",
+            "Value": {
+                "id": "7012bd9c-8f2f-4fea-bf80-da801a2eb253",
+                "resourcePath": "sprites\\s_savePoint\\s_savePoint.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -402,7 +418,7 @@
             "Key": "a0dddcca-d4d6-43fe-bfec-d7f463a7edda",
             "Value": {
                 "id": "3e314062-3308-4434-9a00-109e6a2b694c",
-                "resourcePath": "sprites\\s_savepoint\\s_savepoint.yy",
+                "resourcePath": "sprites\\s_teleporter\\s_teleporter.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -492,6 +508,14 @@
                 "id": "6f702565-d9aa-4ee6-9500-b6b6ebcb716e",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdea26b1-b1e7-40ba-b774-6e0dbac98c12",
+            "Value": {
+                "id": "ea0c11be-ef17-4344-babe-1f1b11de6bda",
+                "resourcePath": "objects\\o_savePoint\\o_savePoint.yy",
+                "resourceType": "GMObject"
             }
         },
         {

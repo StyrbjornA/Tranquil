@@ -78,3 +78,16 @@ Fixed a pixel offset problem by moving the player sprite one pixel right when fa
 Finished the s_playerJump and s_playerFall animations
 Added jump through platforms (o_platform)
 Added camera code
+Added the particle object
+
+2019-05-13
+Resource changes
+- Added sprites
+	s_savePoint
+	
+- Added objects
+	o_savePoint
+
+Development Progress
+
+

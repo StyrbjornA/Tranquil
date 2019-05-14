@@ -91,3 +91,9 @@ Resource changes
 Development Progress
 
 
+2019-05-14
+Resource changes
+-Added scripts
+	SaveGame
+	SetupSave
+	LoadGame

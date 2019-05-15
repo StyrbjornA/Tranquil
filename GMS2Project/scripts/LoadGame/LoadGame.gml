@@ -1,4 +1,4 @@
 if (!file_exists("savegame.sav")){
-	SetupSave();
+	CreateNewSave();
 }
 saveGame = ds_map_secure_load("savegame.sav");

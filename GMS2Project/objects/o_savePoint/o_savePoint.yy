@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "o_savePoint",
     "eventList": [
-        
+        {
+            "id": "6b6c0820-650f-4499-8f83-b242a49f2fd6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "b5c29e7c-9d3d-472d-b4d5-0d77c82c4149",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "cdea26b1-b1e7-40ba-b774-6e0dbac98c12"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

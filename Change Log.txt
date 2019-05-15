@@ -88,7 +88,7 @@ Resource changes
 - Added objects
 	o_savePoint
 
-Development Progress
+
 
 
 2019-05-14
@@ -97,3 +97,11 @@ Resource changes
 	SaveGame
 	SetupSave
 	LoadGame
+2019-05-15
+Resource changes
+-Added scripts
+	CreateNewSave
+
+Development Progress
+	Made save points functional
+	Made svae and load system work

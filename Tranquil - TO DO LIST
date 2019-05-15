@@ -4,8 +4,8 @@ Create project X
 Setup graphics engine X
 Create player with working controlsX
 Create camera that follows player (snap to room)X
-Create save and load system
-Create save points
+Create save and load system X
+Create save points X
 Create death system
 Create collectible poems that saves at player save
 Create dialogue system

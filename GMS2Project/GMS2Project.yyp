@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "04e61d6f-8bef-4d34-83f0-c4f69b764d60",
+            "Value": {
+                "id": "fff56709-8880-4d18-9460-54236384bf7e",
+                "resourcePath": "sprites\\s_savePointSpin\\s_savePointSpin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "073b2e69-0824-4142-885b-4ae3d72bc3be",
             "Value": {
                 "id": "ee6321ae-7cf4-47c2-b998-86df510056b6",

@@ -1,0 +1,1 @@
+spinCooldown = 0;

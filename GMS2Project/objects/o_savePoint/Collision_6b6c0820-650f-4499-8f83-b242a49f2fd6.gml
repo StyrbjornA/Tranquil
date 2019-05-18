@@ -1,7 +1,8 @@
 if (spinCooldown == 0){
 	with (c_game){
-		ds_map_replace(saveGame,"playerX",other.x+8);
-		ds_map_replace(saveGame,"playerY",other.y+8);
+		ds_map_replace(global.saveGame,"playerX",other.x+8);
+		ds_map_replace(global.saveGame,"playerY",other.y+8);
+		ds_map_replace(global.saveGame,"playerArea",room);
 		SaveGame();
 	
 	}

@@ -1,8 +1,8 @@
 {
-    "id": "33cb7358-7060-41d2-a970-0ac99c25abc1",
+    "id": "f315dfb7-eaac-4b66-b3f1-d305fd8d8884",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "SetupSave",
+    "name": "DrawText",
     "IsCompatibility": false,
     "IsDnD": false
 }

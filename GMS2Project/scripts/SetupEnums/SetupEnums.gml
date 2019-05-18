@@ -30,3 +30,8 @@ enum PLAYERSTATE{
 enum PARTICLE{
 	whitepixel
 }
+enum ALIGNMENT{
+	left,
+	center,
+	right
+}

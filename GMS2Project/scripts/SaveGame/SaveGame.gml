@@ -1,4 +1,4 @@
 if (!file_exists("savegame.sav")){
-	SetupSave();
+	LoadGame();
 }
-ds_map_secure_save(saveGame,"savegame.sav");
+ds_map_secure_save(global.saveGame,"savegame.sav");

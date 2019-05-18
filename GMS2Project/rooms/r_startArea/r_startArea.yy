@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "r_startArea",
     "id": "a03230ff-66a0-481f-a525-fd7ad832c6cb",
     "creationCodeFile": "",
     "inheritCode": false,

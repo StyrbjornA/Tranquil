@@ -104,4 +104,28 @@ Resource changes
 
 Development Progress
 	Made save points functional
-	Made svae and load system work
+	Made save and load system work
+2019-05-18
+Resource changes
+-Added scripts
+	SetColorTheme
+-Removed scripts
+	SetupSave
+	DrawText
+	GetCharacterID
+	GetCharacterWidth
+-Added Sprites
+	s_tls_autoTile1
+	s_titleLogo
+-Added TileSets
+	tls_autoTileColor
+-Added Room
+	r_startArea (previously the default room)
+	r_title
+-Added Objects
+	c_titleMenu
+
+Development Progress
+	Found a way to switch tilesets on the fly - might be used later to create more advanced graphical themes
+	Set the saveGame to a global that is created on game start only, to prevent memory leaks.
+	Added text drawing.

@@ -1,5 +1,5 @@
 SetupEnums();
-SetupSave();
+LoadGame();
 
 if (instance_number(c_controls) == 0){
 	instance_create_layer(0,0,"Controllers",c_controls);
@@ -13,8 +13,8 @@ if (instance_number(c_camera) == 0){
 }
 if (instance_number(o_player) == 0){
 	var player = instance_create_layer(x,y,"Player",o_player);
-	player.x = ds_map_find_value(saveGame,"playerX");
-	player.y = ds_map_find_value(saveGame,"playerY");
+	player.x = ds_map_find_value(global.saveGame,"playerX");
+	player.y = ds_map_find_value(global.saveGame,"playerY");
 	with (c_camera){
 		x = floor(o_player.x/240)*240;
 		y = floor(o_player.y/160)*160;

@@ -129,3 +129,12 @@ Development Progress
 	Found a way to switch tilesets on the fly - might be used later to create more advanced graphical themes
 	Set the saveGame to a global that is created on game start only, to prevent memory leaks.
 	Added text drawing.
+2019-05-19
+Resource changes
+-Added scripts
+	DrawStartMenu
+	HandleStartMenu
+	DrawNewGameMenu
+	HandleNewGameMenu
+Development Progress
+	Added new game functionality. The player can either continue playing an old game, or start a new one.

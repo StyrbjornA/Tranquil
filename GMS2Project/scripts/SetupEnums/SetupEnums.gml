@@ -35,3 +35,8 @@ enum ALIGNMENT{
 	center,
 	right
 }
+enum MENU{
+	start,
+	options,
+	newgame //only shown if a save game exists, asking the player to overwrite the save
+}

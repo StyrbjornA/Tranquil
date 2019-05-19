@@ -18,5 +18,5 @@ controls[CTRL.action1Pressed] = keyboard_check_pressed(ord("Z"));
 controls[CTRL.action2Held] = keyboard_check(ord("X"));
 controls[CTRL.action2Pressed] = keyboard_check_pressed(ord("X"));
 
-controls[CTRL.startPressed] = keyboard_check(vk_enter);
+controls[CTRL.startPressed] = keyboard_check_pressed(vk_enter);
 controls[CTRL.selectPressed] = keyboard_check_pressed(vk_backspace);

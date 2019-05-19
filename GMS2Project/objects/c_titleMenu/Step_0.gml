@@ -1,9 +1,9 @@
 switch (currentMenu){
 	case MENU.start:
-		DrawStartMenu();
+		HandleStartMenu();
 	break;
 	case MENU.newgame:
-		DrawNewGameMenu();
+		HandleNewGameMenu();
 	break;
 	
 }

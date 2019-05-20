@@ -136,5 +136,13 @@ Resource changes
 	HandleStartMenu
 	DrawNewGameMenu
 	HandleNewGameMenu
+-Added objects
+	o_teleporter
+	o_teleporter_1
+	o_teleporter_2
+	o_teleporter_3
 Development Progress
 	Added new game functionality. The player can either continue playing an old game, or start a new one.
+2019-05-20
+Development Progress
+	Teleporters now work - woo!

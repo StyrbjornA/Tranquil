@@ -1,1 +1,1 @@
-draw_text(10,10,string(playerState));
+draw_text(10,10,string(global.goalTeleporter));

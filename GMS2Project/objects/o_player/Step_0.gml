@@ -1,3 +1,23 @@
+if (!playerPlaced){
+	
+	with (o_teleporter){
+		if (teleporterID == global.goalTeleporter){
+			other.x = x;
+			other.y = y;
+		}
+	}
+	with (c_camera){
+		x = floor(o_player.x/240)*240;
+		y = floor(o_player.y/160)*160;
+	}
+	if (global.goalSide == 0){
+		x -=8;
+	} else{
+		x +=24;
+	}
+	playerPlaced = true;
+	
+}
 //handle player movement
 grounded = false;
 switch (playerState){

@@ -8,3 +8,5 @@ if (instance_number(c_graphics) == 0){
 currentMenu = MENU.start;
 menuOption = 0;
 maxOption = 4;
+global.startingGame = true;
+global.goalTeleporter = 0;

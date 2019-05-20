@@ -6,3 +6,4 @@ jumpHeight = -3;
 playerState = PLAYERSTATE.falling;
 facing = 1;
 grounded = false;
+playerPlaced = false;

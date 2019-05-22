@@ -9,6 +9,7 @@ with (o_player){
 		newSplatter.bounceOnTile = 1+irandom(3);
 		newSplatter.bounceX = true;
 		newSplatter.bounceY = true;
+		newSplatter.destroyOutsideScreen = true;
 	}
 	var playerSkull = instance_create_layer(x,y-4,"Actives",o_particle);
 	playerSkull.ySpeed = ySpeed;
@@ -23,4 +24,5 @@ with (o_player){
 	playerSkull.depth = depth - 500;
 	playerSkull.bounceX = true;
 	playerSkull.bounceY = true;
+	playerSkull.destroyOutsideScreen = true;
 }

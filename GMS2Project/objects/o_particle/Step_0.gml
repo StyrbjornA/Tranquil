@@ -38,4 +38,9 @@ if (flashing){
 
 rotationAngle += rotationSpeed;
 
+if (destroyOutsideScreen && !CheckOnScreen()){
+	
+	instance_destroy();
+}
+
 

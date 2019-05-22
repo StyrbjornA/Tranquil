@@ -14,3 +14,4 @@ bounceY = 0;
 destroyAfterBounce = true;
 rotationSpeed = 0;
 rotationAngle = 0;
+destroyOutsideScreen = true;

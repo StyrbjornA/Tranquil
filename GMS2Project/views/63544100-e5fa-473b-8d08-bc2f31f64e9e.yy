@@ -7,7 +7,8 @@
         "3dacd777-314e-4486-9669-2c5de0dd4b30",
         "191a0eea-ac23-4655-ad5b-86c8195cd3da",
         "8ad469fb-7c9a-4e88-b48d-eeaafb92c3c8",
-        "3a82626e-c02f-411a-87a4-04a87655660b"
+        "3a82626e-c02f-411a-87a4-04a87655660b",
+        "8357faae-3449-400d-8f31-46c9c6f3434c"
     ],
     "filterType": "GMScript",
     "folderName": "Player",

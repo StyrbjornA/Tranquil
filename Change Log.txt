@@ -146,3 +146,18 @@ Development Progress
 2019-05-20
 Development Progress
 	Teleporters now work - woo!
+2019-05-22
+-Added objects
+	o_enemy
+	o_spike
+	o_smallSpike
+-Added scripts
+	KillPlayer
+	PlayerDeath
+	CheckOnScreen
+-Added sprites
+	s_pixel
+Development Progress
+	Added player death, with particle effect.
+	Added instance deactivation for objects that are not on camera. 
+	

@@ -35,6 +35,9 @@ switch (playerState){
 	break;
 	case PLAYERSTATE.areaSwitch:
 	break;
+	case PLAYERSTATE.dead:
+		PlayerDeath();
+	break;
 }
 //handle player animation
 

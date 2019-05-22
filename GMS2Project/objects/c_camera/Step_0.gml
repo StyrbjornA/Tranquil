@@ -16,3 +16,6 @@ if (abs(x-goalX) > 1 || abs(y-goalY) > 1){
 }
 
 camera_set_view_pos(view_camera[0],x,y);
+
+instance_deactivate_layer(layer_get_id("Actives"));
+instance_activate_region(x,y,c_graphics.window_width,c_graphics.window_height,true);

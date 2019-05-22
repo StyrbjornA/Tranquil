@@ -25,10 +25,12 @@ enum PLAYERSTATE{
 	running,
 	jumping,
 	falling,
-	areaSwitch
+	areaSwitch,
+	dead
 }
 enum PARTICLE{
-	whitepixel
+	whitepixel,
+	sprite
 }
 enum ALIGNMENT{
 	left,

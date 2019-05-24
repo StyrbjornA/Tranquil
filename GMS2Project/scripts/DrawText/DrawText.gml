@@ -1,8 +1,7 @@
-///@args (text,xPos,yPos,alignment)
+///@args (text,xPos,yPos)
 var text = argument[0];
 var textBoxX = argument[1];
 var textBoxY = argument[2];
-var align = argument[3];
 var str_length = string_length(text);
 var charX = textBoxX;
 var charY = textBoxY;

@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "62b494c3-4f59-4b94-b150-7a83d8824c95",
+            "Value": {
+                "id": "78ff4837-3033-499f-b7f6-a7af266b34c4",
+                "resourcePath": "objects\\o_NPC\\o_NPC.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "63544100-e5fa-473b-8d08-bc2f31f64e9e",
             "Value": {
                 "id": "e29c366d-8211-4abc-b764-7389050cdc79",
@@ -588,6 +596,14 @@
                 "id": "54863d60-0293-4f70-b5d4-48b26a22f3c0",
                 "resourcePath": "scripts\\MovePlayerX\\MovePlayerX.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8d70b051-db02-4c70-a2f4-4cb13a0af6a8",
+            "Value": {
+                "id": "a7321d2f-9b83-4ba9-bc05-b1ffdc2bd6eb",
+                "resourcePath": "shaders\\shd_setColors\\shd_setColors.yy",
+                "resourceType": "GMShader"
             }
         },
         {
@@ -748,6 +764,14 @@
                 "id": "e7df003e-624e-4050-8746-4d38cc5e372a",
                 "resourcePath": "views\\b932dd64-560d-42ab-8f0d-b497e0a192e5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bd10eab6-8a99-4d7a-9774-9f748049bc09",
+            "Value": {
+                "id": "c734db42-e0f8-48b0-9e60-5918402fdb27",
+                "resourcePath": "scripts\\DrawDialogBox\\DrawDialogBox.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -980,6 +1004,7 @@
         "5f7bd837-deab-4b6b-abdc-aadd847a0b5e",
         "6d39c043-ae7d-4017-9ffc-bcaaa9f8119a",
         "2602f783-5783-4a7e-b9fc-4942b84aedfe",
+        "bd10eab6-8a99-4d7a-9774-9f748049bc09",
         "c7a645a3-a4d9-41fb-b77f-735851cd8421",
         "da4fb3cb-8382-44f9-96bc-49573cfe5766"
     ],

@@ -159,5 +159,16 @@ Development Progress
 	s_pixel
 Development Progress
 	Added player death, with particle effect.
-	Added instance deactivation for objects that are not on camera. 
+	Added instance deactivation for objects that are not on camera.
+2019-05-23
+-Added shaders
+	shd_setColors
+Development Progress
+	Fixed death color animation
+2019-05-23
+-Added scripts
+	DrawDialogBox
+Development Progress
+	Added dialog box functionality
+	Added diablog box to player death
 	

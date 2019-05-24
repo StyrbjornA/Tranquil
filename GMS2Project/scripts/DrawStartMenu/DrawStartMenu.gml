@@ -5,14 +5,14 @@ var menuY = room_height/2;
 
 var optionIndex = 0;
 if (file_exists("savegame.sav")){
-	DrawText("Continue",menuX,menuY + optionIndex*10,ALIGNMENT.left);
+	DrawText("Continue",menuX,menuY + optionIndex*10);
 	optionIndex ++;
 }
-DrawText("New Game",menuX,menuY+optionIndex*10,ALIGNMENT.left);
+DrawText("New Game",menuX,menuY+optionIndex*10);
 optionIndex ++;
-DrawText("Options",menuX,menuY+optionIndex*10,ALIGNMENT.left);
+DrawText("Options",menuX,menuY+optionIndex*10);
 optionIndex ++;
-DrawText("Quit Game",menuX,menuY+optionIndex*10,ALIGNMENT.left);
+DrawText("Quit Game",menuX,menuY+optionIndex*10);
 
 
 var arrowFrame = ((current_time/100) mod 4);

@@ -26,3 +26,5 @@ with (o_player){
 	playerSkull.bounceY = true;
 	playerSkull.destroyOutsideScreen = true;
 }
+SetColorTheme(COLORTHEME.death);
+c_graphics.flashCooldown = 3;

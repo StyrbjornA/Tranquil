@@ -42,3 +42,16 @@ enum MENU{
 	options,
 	newgame //only shown if a save game exists, asking the player to overwrite the save
 }
+enum COLOR{
+	darkR,
+	darkG,
+	darkB,
+	lightR,
+	lightG,
+	lightB
+}
+enum COLORTHEME{
+	grey,
+	bw,
+	death
+}

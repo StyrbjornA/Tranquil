@@ -6,10 +6,11 @@
     "children": [
         "43cc2760-9aae-42c3-b326-16e7017e0f32",
         "7ecaacfb-d1e3-4bea-b313-482666e24bb6",
-        "6438b918-555e-414e-9711-79e8282aaa34"
+        "6438b918-555e-414e-9711-79e8282aaa34",
+        "62b494c3-4f59-4b94-b150-7a83d8824c95"
     ],
     "filterType": "GMObject",
-    "folderName": "NPCS",
+    "folderName": "NPCs",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

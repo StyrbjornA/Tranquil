@@ -9,7 +9,7 @@ var textWidth = 0;
 for (var char = 0;char < string_length(confirmText);char++){
 	textWidth += GetCharacterWidth(string_char_at(confirmText,char)) + 1; 
 }
-DrawText(confirmText,menuX-textWidth/2,menuY+optionIndex*10,ALIGNMENT.left);
+DrawText(confirmText,menuX-textWidth/2,menuY+optionIndex*10);
 optionIndex ++;
 
 var confirmText = "Start a new game?";
@@ -18,11 +18,11 @@ var textWidth = 0;
 for (var char = 0;char < string_length(confirmText);char++){
 	textWidth += GetCharacterWidth(string_char_at(confirmText,char)) + 1; 
 }
-DrawText(confirmText,menuX-textWidth/2,menuY+optionIndex*10,ALIGNMENT.left);
+DrawText(confirmText,menuX-textWidth/2,menuY+optionIndex*10);
 optionIndex ++;
 
-DrawText("Yes",menuX-30,menuY+30,ALIGNMENT.left);
-DrawText("No",menuX+20,menuY+30,ALIGNMENT.left);
+DrawText("Yes",menuX-30,menuY+30);
+DrawText("No",menuX+20,menuY+30);
 var arrowFrame = ((current_time/100) mod 4);
 switch (menuOption){
 	case 0:

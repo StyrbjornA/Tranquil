@@ -455,6 +455,22 @@
             }
         },
         {
+            "Key": "5fffbed7-75b0-4bc5-a03d-c9774536ad44",
+            "Value": {
+                "id": "857973bb-8510-4346-9301-b706b1b00ab4",
+                "resourcePath": "objects\\o_NPCgirl\\o_NPCgirl.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "617df63d-e17f-4054-8a6d-f3f29c941db8",
+            "Value": {
+                "id": "1396f9da-2cbc-4921-b84b-e67c9ca2f6f4",
+                "resourcePath": "sprites\\s_NPCgirlStand\\s_NPCgirlStand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "62b494c3-4f59-4b94-b150-7a83d8824c95",
             "Value": {
                 "id": "78ff4837-3033-499f-b7f6-a7af266b34c4",
@@ -836,6 +852,14 @@
                 "id": "6f702565-d9aa-4ee6-9500-b6b6ebcb716e",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdbbd218-9c0d-47ac-80c7-9435a5ff7b35",
+            "Value": {
+                "id": "fd285726-24ee-47d9-b69e-5f8e60d94cc7",
+                "resourcePath": "sprites\\s_NPCgirlWalk\\s_NPCgirlWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

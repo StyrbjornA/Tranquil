@@ -1,0 +1,1 @@
+spawnObject = o_NPCgirl;

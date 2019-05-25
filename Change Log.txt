@@ -175,4 +175,6 @@ Development Progress
 	Added dialog box functionality
 	Added diablog box to player death
 	Added spawn system - spawns are deleted when outside view, and spawners spawn things once their spawn does no longer exist
+2019-05-25
+	Added NPCs with AI
 	

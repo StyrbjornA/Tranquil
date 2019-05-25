@@ -2,8 +2,8 @@
 
 var longestLine = 0;
 var boxText = argument[0];
-var boxX = argument[1];
-var boxY = argument[2];
+var boxX = floor(argument[1]);
+var boxY = floor(argument[2]);
 var textAlign = argument[3];
 var lineCount = 0;
 

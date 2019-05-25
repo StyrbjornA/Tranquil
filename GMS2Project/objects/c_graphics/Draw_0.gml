@@ -13,3 +13,8 @@ with (o_player){
 		break;
 	}
 }
+with (o_NPC){
+	if (displayDialog){
+		DrawDialogBox(npcDialog,x,y-32,ALIGNMENT.center);
+	}
+}

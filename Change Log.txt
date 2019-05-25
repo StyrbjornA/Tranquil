@@ -168,7 +168,11 @@ Development Progress
 2019-05-23
 -Added scripts
 	DrawDialogBox
+-Added objects
+	o_spawn
+	o_spawner
 Development Progress
 	Added dialog box functionality
 	Added diablog box to player death
+	Added spawn system - spawns are deleted when outside view, and spawners spawn things once their spawn does no longer exist
 	

@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "12349ff4-e72f-458e-87b2-e96e701e6789",
+            "Value": {
+                "id": "7717a227-fad7-4838-afc5-aa71dbb42d7e",
+                "resourcePath": "objects\\o_spawn\\o_spawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "13ffcbce-5115-4aeb-af2b-a713f8bb4b96",
             "Value": {
                 "id": "6311e35a-316c-4bd5-910c-fcfebe08012b",
@@ -364,6 +372,14 @@
                 "id": "33041a97-a595-4161-9b9a-5d580a930e64",
                 "resourcePath": "views\\4bb18791-4c66-46ab-abe4-0a4b697b2567.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4e7c9f16-210b-424d-8010-f7eab7fb9dab",
+            "Value": {
+                "id": "2e822dcc-75e3-4367-ab9a-fb616e0ade33",
+                "resourcePath": "sprites\\s_testEnemy\\s_testEnemy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -695,6 +711,14 @@
             }
         },
         {
+            "Key": "a194cbb3-07d6-46e9-b01d-3c88b1abc82e",
+            "Value": {
+                "id": "edbc1e3a-6640-4b12-8311-d50af69bee16",
+                "resourcePath": "objects\\o_testEnemy\\o_testEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a239c5d3-59c4-4d2a-9245-2ee40ca1733a",
             "Value": {
                 "id": "c64c6bac-8695-4ccc-9edd-134d39028f9a",
@@ -820,6 +844,22 @@
                 "id": "ea0c11be-ef17-4344-babe-1f1b11de6bda",
                 "resourcePath": "objects\\o_savePoint\\o_savePoint.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cef3d774-1b1a-4b8d-a4d3-af58929dc793",
+            "Value": {
+                "id": "cca42aad-2264-48da-a987-ea7d8faf42a3",
+                "resourcePath": "objects\\o_spawner\\o_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cf851a98-a983-44a0-9922-5a28f0afe91f",
+            "Value": {
+                "id": "2117d555-a615-4f84-b285-5071a97da50e",
+                "resourcePath": "sprites\\s_spawner\\s_spawner.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

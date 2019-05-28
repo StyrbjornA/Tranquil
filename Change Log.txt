@@ -177,4 +177,8 @@ Development Progress
 	Added spawn system - spawns are deleted when outside view, and spawners spawn things once their spawn does no longer exist
 2019-05-25
 	Added NPCs with AI
+2019-05-25
+	Added Dialog funcionality to NPCs
+2019-05-28
+	Added saving of collectibles
 	

@@ -1,0 +1,1 @@
+return (string(x)+string(y)+object_get_name(id)+string(room_get_name(room)));

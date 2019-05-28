@@ -10,7 +10,9 @@
         "cdea26b1-b1e7-40ba-b774-6e0dbac98c12",
         "1911d624-ca5a-4316-a5ea-2eec8ed35e13",
         "12349ff4-e72f-458e-87b2-e96e701e6789",
-        "cef3d774-1b1a-4b8d-a4d3-af58929dc793"
+        "cef3d774-1b1a-4b8d-a4d3-af58929dc793",
+        "09be79b2-1d24-4c09-af37-3840bd5c1c4d",
+        "d45e0695-185f-4c56-8497-61065bb87ed9"
     ],
     "filterType": "GMObject",
     "folderName": "General",

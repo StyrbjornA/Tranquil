@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "09be79b2-1d24-4c09-af37-3840bd5c1c4d",
+            "Value": {
+                "id": "fe53d3be-a4fb-4f32-8d9f-3f67a13154f8",
+                "resourcePath": "objects\\o_collectible\\o_collectible.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d9d1d59-445a-4111-98b7-c49f2f4a0ece",
             "Value": {
                 "id": "7012bd9c-8f2f-4fea-bf80-da801a2eb253",
@@ -503,6 +511,14 @@
             }
         },
         {
+            "Key": "67b40fd6-9317-4e0d-be79-dfc3999120b0",
+            "Value": {
+                "id": "5d79cfe1-c22e-48e4-8d85-5ac8c4e89e50",
+                "resourcePath": "scripts\\GetSaveKey\\GetSaveKey.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6d39c043-ae7d-4017-9ffc-bcaaa9f8119a",
             "Value": {
                 "id": "9d95f2e9-f81e-47da-b1eb-04bc0ba20767",
@@ -887,6 +903,14 @@
             }
         },
         {
+            "Key": "d45e0695-185f-4c56-8497-61065bb87ed9",
+            "Value": {
+                "id": "c85b0c0b-36b6-4e12-8bdf-431b89468c52",
+                "resourcePath": "objects\\o_poem\\o_poem.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d71bfd69-5bf9-4200-ad6d-51b5764a8e5e",
             "Value": {
                 "id": "89ba04dc-d0ba-4451-b4ff-a530cbe04478",
@@ -1031,6 +1055,14 @@
             }
         },
         {
+            "Key": "fed0044e-c57e-4bf8-addc-f9c9ee182d3a",
+            "Value": {
+                "id": "0e9ff8c9-7402-4860-a230-ece209ecb231",
+                "resourcePath": "sprites\\s_poem\\s_poem.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ff91b388-3293-4610-8fdd-7fe59a7bd801",
             "Value": {
                 "id": "25a94deb-6ca3-4f81-b6f8-793568f10aef",
@@ -1061,6 +1093,7 @@
         "d923b7cf-d0a3-4f07-a566-209212678c36",
         "33271673-924e-4c05-b7a9-fa5fbc6ed9f3",
         "82022508-c881-4db4-92ea-15d0afb2a06a",
+        "67b40fd6-9317-4e0d-be79-dfc3999120b0",
         "f315dfb7-eaac-4b66-b3f1-d305fd8d8884",
         "12196dc9-cabe-4022-89a5-3b2c203ecf71",
         "272f32a4-4d31-4001-8619-90121d8acf73",
